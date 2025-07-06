@@ -1,0 +1,7 @@
+list = []
+
+list.append('mikes')
+
+list.insert(0,'john')
+
+print(list)
